@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    
+    <ImageView
+        android:layout_marginLeft="9.2dp"
+        android:id="@+id/imageHinhAnh"
+        android:layout_width="18.4dp"
+        android:layout_height="17.3dp"
+        android:padding="3dp"
+        />
+    <TextView
+
+        android:id="@+id/textTen"
+        android:layout_below="@+id/imageHinhAnh"
+        android:layout_width="36.9dp"
+        android:layout_height="14.7dp"
+        android:text="Tên"
+        android:textColor="#a9aaad"
+        android:textSize="9.2sp"
+        android:lineHeight="14.7sp"
+
+
+    />
+</RelativeLayout>
