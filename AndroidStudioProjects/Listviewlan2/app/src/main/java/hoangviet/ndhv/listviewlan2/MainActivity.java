@@ -30,6 +30,30 @@ public class MainActivity extends AppCompatActivity {
         arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
         arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
         arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
+        arrayTraiCay.add(new traiCay("Dâu","Dâu tây Đà Lạt",R.drawable.dautay));
+        arrayTraiCay.add(new traiCay("Cam","Cam sành Nam bộ",R.drawable.cam));
+        arrayTraiCay.add((new traiCay("Táo","Táo mỹ",R.drawable.apple)));
+        arrayTraiCay.add(new traiCay("Xoài","Xoài cát hòa lộc",R.drawable.xoai));
 
 
     }

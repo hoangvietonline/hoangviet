@@ -4,6 +4,8 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -51,6 +53,8 @@ public class traiCayAdapter extends BaseAdapter {
         txtTen.setText(traiCay.getTen());
         txtMoTa.setText(traiCay.getMoTa());
         imgHinh.setImageResource(traiCay.getHinh());
+        Animation animation = AnimationUtils.loadAnimation(context,R.anim.scale_list);
+        view.startAnimation(animation);
 
         return view;
     }

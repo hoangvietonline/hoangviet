@@ -1,0 +1,15 @@
+Index: app/src/main/res/drawable/button_selector.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/drawable/button_selector.xml	(revision f17024acb5835a35097b44f0ae26a2afe8d5ef29)
++++ app/src/main/res/drawable/button_selector.xml	(revision f17024acb5835a35097b44f0ae26a2afe8d5ef29)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="utf-8"?>
++<selector xmlns:android="http://schemas.android.com/apk/res/android">
++<item android:drawable="@color/colorPrimary"
++    android:state_pressed="true"/>
++<item android:drawable="@color/colorWhite"/>
++</selector>
+\ No newline at end of file

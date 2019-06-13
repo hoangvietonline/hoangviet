@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ung dung toan cau</string>
+    <string name="text_tieuDe">Information From</string>
+    <string name="hint_Ten">Input full name</string>
+    <string name="hint_Email">Input Email</string>
+    <string name="hint_SDT">Input phone number</string>
+    <string name="text_xacnhan">Confirm</string>
+    <string name="text_chaoBan">Hello</string>
+    <string name="text_Email" translatable="false">Email</string>
+    <string name="text_Sdt">phone number</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <bitmap android:src="@drawable/android_big"
+            android:gravity="center"/>
+
+    </item>
+    <item android:top="800dp" android:right="900dp">
+        <bitmap android:src="@drawable/androidhai"
+            android:gravity="center"
+
+            />
+    </item>
+    <item android:bottom="800dp" android:left="900dp">
+        <bitmap android:src="@drawable/androidba"
+            android:gravity="center"/>
+    </item>
+</layer-list>
